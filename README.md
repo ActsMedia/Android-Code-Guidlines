@@ -113,5 +113,5 @@ class ExampleActivity: Activity() {
 
 ### **Basic Transitions between Activities should use the Activity Extensions in: https://github.com/PeeJWeeJ/EZ-Android-Transition-Animations**
 
-This gives the app a consistent feel when moving through the app and a defined set of animations without having to set them for every transitions.
+This gives the app a consistent feel when moving through the app and a defined set of animations without having to set them for every transition.
 
